@@ -1,0 +1,144 @@
+footer {
+    width: 100%;
+    margin-top: 47rem;
+}
+
+footer .row {
+    align-items: center;
+}
+
+footer .one {
+    width: 30%;
+}
+
+footer .one .footer-logo {
+    margin-bottom: 3rem;
+}
+
+footer .one .footer-logo img {
+    width: 100%;
+}
+
+footer .one .first {
+    margin-bottom: 1rem;
+}
+
+footer .one .word {
+    font-size: 1.5rem;
+    margin-left: 1.5rem;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+
+footer .one .pd-word {
+    /* border-bottom: 1px solid #77778D; */
+    width: 75%;
+    height: 1px;
+    background-color: #77778D75;
+    margin-left: 1.5rem;
+    margin: 2rem 0 3rem;
+}
+
+footer .one .d-word {
+    font-size: 1.5rem;
+    margin-left: 1.5rem;
+    color: #77778D;
+}
+
+footer .one .social-icon {
+    margin-left: 1.5rem;
+}
+
+footer .one .social-icon i {
+    margin-left: 1rem;
+    font-size: 2rem;
+    transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -ms-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+}
+
+footer .one .social-icon i:hover {
+    color: #f00;
+}
+
+footer .two {
+    width: 30%;
+    margin-bottom: 2rem;
+}
+
+footer .two .row {
+    justify-content: flex-start;
+}
+
+footer .two .footer-list {
+    margin-top: 2rem;
+}
+
+footer .two .footer-list li {
+    margin-top: 2rem;
+}
+
+footer .two .footer-list li a {
+    font-size: 1.5rem;
+    color: #050607;
+}
+
+footer .two .footer-list .icons {
+    margin-right: 2rem;
+    font-size: 1.5rem;
+    color: #7FD02C;
+}
+
+footer .three {
+    width: 30%;
+}
+
+footer .three h1 {
+    margin-bottom: 5rem;
+}
+
+footer .three .content {
+    font-size: 1.5rem;
+    letter-spacing: .4px;
+}
+
+footer .three input::placeholder {
+    color: #535357;
+}
+
+footer .three input {
+    outline: none;
+    border: none;
+    margin: 4rem 0 2rem;
+    padding-bottom: 2.5rem;
+    border-bottom: 1px solid #f00;
+}
+
+footer .three .icon {
+    width: 25%;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-color: #F00;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    color: #fff;
+    position: relative;
+}
+
+footer .three .icon i {
+    position: absolute;
+    font-size: 2rem;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+}
